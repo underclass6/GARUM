@@ -15,3 +15,9 @@ GARUM's python implementation.
     ```
     python3 myontology.py
     ```
+    or
+    ```
+    python3 myonto_online.py
+    ```
+
+__Note__: myonto_online.py uses the KG over endpoint, myontology.py works in local only.
