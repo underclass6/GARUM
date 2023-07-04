@@ -3,3 +3,4 @@ __pycache__/
 ontologies/*.nt
 ontologies/*.nq
 ontologies/*.owl
+resources/
